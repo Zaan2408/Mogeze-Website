@@ -1,0 +1,81 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ProLink Logistics & Engineering</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>ProLink Logistics & Engineering</h1>
+    <p>Your liaison to reliable logistics and skilled labour.</p>
+    <a href="#contact" class="cta">Get Matched Today</a>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>We are a consulting and liaison firm connecting top-tier logistics solutions and skilled engineering professionals to businesses across South Africa. Currently focused on logistics and plant hire, we’re expanding to include an engineering labour hire division through a strategic merger.</p>
+  </section>
+
+  <section class="services">
+    <h2>Logistics & Plant Hire</h2>
+    <div class="levels">
+
+      <div class="level">
+        <h3>Level 5: Light Delivery Vehicles (LDV)</h3>
+        <p>Vehicles such as 4+1 crew cabs and city utility vehicles for light transport needs.</p>
+      </div>
+
+      <div class="level">
+        <h3>Level 4: Buses & Cargo Trucks</h3>
+        <p>Heavy-duty transport, including buses and horse-trailer configurations.</p>
+      </div>
+
+      <div class="level">
+        <h3>Level 3: Plant & Earthmoving Equipment</h3>
+        <p>ADT trucks, excavators, and haulers for construction and mining sites.</p>
+      </div>
+
+      <div class="level">
+        <h3>Level 2: Marine Shipping</h3>
+        <p>Container ships and coastal freight for large-scale logistics.</p>
+      </div>
+
+      <div class="level">
+        <h3>Level 1: Aviation Logistics</h3>
+        <p>Aircrafts for commercial and chartered transport logistics.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="labour">
+    <h2>Labour Hire – Coming Soon</h2>
+    <p>We’re merging with an engineering workforce company to offer artisans, site engineers, and on-demand skilled labour. Stay tuned.</p>
+  </section>
+
+  <section class="development">
+    <h2>Talent Development</h2>
+    <p>Every 2 years of continuous employment, workers are funded to gain higher certifications—e.g., upgrading Level 5 drivers to ADT operators through accredited training programs.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@prolinklogistics.co.za</p>
+    <p>Phone: +27 123 456 789</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea placeholder="Your Message" required></textarea>
+      <button type="submit">Send Inquiry</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ProLink Logistics & Engineering. All rights reserved.</p>
+  </footer>
+</body>
+</html>
